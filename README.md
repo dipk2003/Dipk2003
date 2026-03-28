@@ -139,10 +139,30 @@ Tamper-proof voting backend with authentication and role-based access control. B
 
 ---
 
-## 🏆 Trophy Cabinet
+## 🏆 Achievements & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dipk2003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&column=7"/>
+
+| 🏅 | Achievement | Details |
+|:---:|---|---|
+| 🚀 | **Live Products Shipped** | AaoCollege (EdTech) • IndianTradeMart (B2B Marketplace) |
+| 💼 | **Industry Experience** | Software Development Intern @ Prishubh EdTech Pvt. Ltd. |
+| ✍️ | **Technical Writer** | 22+ published articles on Platform Eng, AI, SEO & Full Stack |
+| 🤖 | **AI Integration** | Built AI chatbot powering real-time college discovery at scale |
+| 🏗️ | **Platform Thinker** | CI/CD → Platform Engineering advocate & practitioner |
+| 🌐 | **Full Stack** | React • Next.js • Node.js • Java • Spring Boot • Supabase |
+| 🎓 | **Education** | B.Tech CSE — Mangalmay Institute of Engineering & Technology |
+| 🧩 | **DSA Grinder** | Consistently solving problems on LeetCode & CodeChef |
+
+</div>
+
+<div align="center">
+
+![Ships Products](https://img.shields.io/badge/🚀_Ships-Live_Products-28a745?style=for-the-badge)
+![Blog](https://img.shields.io/badge/✍️_Writes-22%2B_Tech_Posts-orange?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/💻_Full-Stack_Dev-0078D4?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/🌍_Open-Source_Builder-8A2BE2?style=for-the-badge)
+
 </div>
 
 ---
