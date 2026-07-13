@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dipanshu%20Kumar%20Pandey&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Dev%20%7C%20Platform%20Engineer%20%7C%20Tech%20Writer&descAlignY=55&descSize=17" width="100%"/>
+![Dipanshu Kumar Pandey — Full Stack Developer terminal profile](./assets/profile-terminal.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&width=750&lines=🚀+Building+Scalable+SaaS+Products;💡+Full+Stack+%7C+React+%7C+Node.js+%7C+Next.js;🏗️+Platform+Engineer+%7C+DevOps+Mindset;🤖+AI+Agents+%2B+Web+%3D+The+Future;✍️+Tech+Writer+%40+dipanshudev.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Building+Scalable+SaaS+Products;💡+Full+Stack+%7C+React+%7C+Node.js+%7C+Next.js;🏗️+Platform+Engineer+%7C+DevOps+Mindset;🤖+AI+Agents+%2B+Web+%3D+The+Future;✍️+Tech+Writer+%40+dipanshudev.com)](https://git.io/typing-svg)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Dipk2003&label=👀+Profile+Views&color=FF6B6B&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Dipk2003?label=Followers&style=for-the-badge&color=orange&labelColor=black)](https://github.com/Dipk2003)
-[![GitHub Stars](https://img.shields.io/github/stars/Dipk2003?label=Total+Stars&style=for-the-badge&color=yellow&labelColor=black)](https://github.com/Dipk2003)
+![Profile Views](https://komarev.com/ghpvc/?username=Dipk2003&label=Profile+Views&color=238636&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Dipk2003?label=Followers&style=for-the-badge&color=1f6feb&labelColor=0d1117)](https://github.com/Dipk2003)
+[![GitHub Stars](https://img.shields.io/github/stars/Dipk2003?label=Total+Stars&style=for-the-badge&color=a371f7&labelColor=0d1117)](https://github.com/Dipk2003)
 
 </div>
 
