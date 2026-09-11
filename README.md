@@ -1,142 +1,196 @@
 <div align="center">
 
-Hi, I'm Dipanshu Kumar Pandey 👋
+Dipanshu Kumar Pandey
 
-AI Full-Stack Developer • SDE-1
+AI Full-Stack Developer · SDE-1
 
-I build end-to-end products across frontend, backend, APIs, databases and AI workflows — with a focus on practical engineering, clean architecture and real product use cases.
+Building end-to-end products across frontend, backend, APIs, databases and AI workflows.
 
-
-
-
+Portfolio · LinkedIn · LeetCode
 
 </div>
 
-👨‍💻 About Me
+$ whoami
+Dipanshu Kumar Pandey
 
-🎯 Focused on SDE-1 and AI Full-Stack Developer roles.
+$ focus
+AI Full-Stack Development · Backend Engineering · SDE-1
 
-💻 Build with React, Next.js, TypeScript, Node.js, Express, Python and FastAPI.
+$ stack
+Next.js · React · TypeScript · Node.js · Express · Python · FastAPI
 
-🤖 Hands-on with LLM APIs, AI-agent workflows and automation pipelines.
+$ currently_improving
+DSA · LLD · System Design · Redis · Queues · Testing · Observability
 
-🏗️ Build and study microservices, API gateways, authentication, multi-tenant systems, Docker and system-design fundamentals.
+About Me
 
-🧠 Strengthening DSA, low-level design and backend fundamentals alongside product engineering.
+I’m a full-stack developer focused on building complete, production-style applications rather than isolated frontend demos.
 
-🚀 Prefer complete, user-facing products over isolated tutorial CRUD apps.
+My work usually starts with the product flow, then moves through UI architecture, API contracts, authentication, business logic, databases, validation, error handling and deployment.
 
-🛠️ Engineering Stack
+I’m especially interested in backend-heavy full-stack systems, AI-powered applications and engineering problems involving multi-tenancy, microservices, API gateways, role-based workflows and scalable application architecture.
+
+Tech Stack
+
+Area
+
+Technologies
 
 Frontend
-React Next.js TypeScript JavaScript Tailwind CSS React Native Expo
 
-Backend & APIs
-Node.js Express.js Python FastAPI REST APIs JWT Swagger / OpenAPI
+React Next.js TypeScript JavaScript Tailwind CSS
 
-Data
-PostgreSQL MySQL MongoDB Supabase Sequelize
+Mobile / Cross-Platform
+
+React Native Expo
+
+Backend
+
+Node.js Express.js Python FastAPI
+
+Databases
+
+PostgreSQL MySQL MongoDB Supabase
+
+API & Auth
+
+REST APIs JWT Swagger / OpenAPI
 
 AI
-OpenAI APIs Anthropic APIs LLM Workflows AI Agents Prompt Pipelines
 
-Engineering & DevOps
-Git GitHub Docker Docker Compose Vercel Render Logging API Gateway Microservices
+OpenAI APIs Anthropic APIs LLM Workflows AI Agents
 
-🚀 Featured Engineering Projects
+Engineering
 
-1. OrgFlow HRMS — Microservices HR Platform
+Microservices API Gateway Multi-Tenancy Docker Git
 
-Node.js • TypeScript • Express • PostgreSQL/MySQL • Sequelize • Docker • JWT • Swagger
+Deployment
 
-A multi-tenant HRMS architecture built as independent services behind an API gateway. The repository includes authentication, company and employee management, QR attendance, leave/WFH workflows, payroll, notifications, tenant scoping, rate limiting and service-level API documentation.
+Vercel Render Docker Compose
 
-Engineering depth: microservice boundaries, API gateway design, JWT-based access, tenant-aware data flows, Docker orchestration, validation, logging and service contracts.
+Featured Engineering Projects
 
-View Repository →
+01 — OrgFlow HRMS
 
-2. The Boring Agents — AI Content & Interview Automation
+Multi-Tenant HRMS built with Microservices
 
-Python • FastAPI • LLM APIs • Agent Workflows • CLI + REST API
+Next.js TypeScript Node.js Express PostgreSQL / MySQL Sequelize Docker JWT
 
-AI-agent system for generating structured interview-preparation and educational content. The codebase supports multiple model providers, reusable agents, automated workflows, FastAPI endpoints and Swagger documentation.
+A full-stack HR management platform designed around independent backend services for authentication, users, companies, attendance, leave, payroll and notifications.
 
-Engineering depth: agent orchestration, provider-based LLM integration, structured generation pipelines, API design, automation scripts and error handling.
+Engineering focus: API Gateway architecture, JWT authentication, tenant-aware data access, QR attendance flows, approval workflows, service boundaries, rate limiting, Swagger documentation and Docker orchestration.
 
-View Repository →
-
-3. HHH Jobs — Cross-Platform Job Platform
-
-React Native • Expo • TypeScript • Python • FastAPI • REST APIs
-
-Cross-platform job product with separate student and HR flows. Students can browse jobs, save opportunities and track applications, while HR users get dashboard, job-posting and job-management flows. A FastAPI proxy layer connects the client to an upstream backend.
-
-Engineering depth: role-based application flows, shared mobile/web development, API proxying, async HTTP handling and frontend/backend integration.
+Why it matters: this is my strongest system-design-oriented project because it goes beyond CRUD and explores how multiple backend domains work together inside one product.
 
 View Repository →
 
-4. IndianTradeMart — B2B Marketplace Frontend
+02 — The Boring Agents
 
-Next.js 15 • React 19 • TypeScript • Redux Toolkit • Jest • Recharts • WebSockets
+AI Content & Interview Automation Platform
 
-A full B2B marketplace frontend with marketplace workflows, API integration, real-time client libraries, testing scripts, type checking and production-oriented build tooling.
+Python FastAPI LLM APIs AI Agents REST API CLI
+
+An AI-agent system for generating structured educational and interview-preparation content through reusable workflows and multiple model providers.
+
+Engineering focus: agent orchestration, provider-based LLM integration, structured generation pipelines, FastAPI endpoints, Swagger documentation, automation scripts, error handling and reusable AI components.
+
+View Repository →
+
+03 — HHH Jobs
+
+Cross-Platform Job Platform for Candidates and HR Teams
+
+React Native Expo TypeScript Python FastAPI
+
+A role-based job application product with separate student and HR experiences.
+
+Students can browse jobs, save opportunities and track applications, while HR users get dashboard, post-job and job-management workflows. A FastAPI proxy layer connects the client with the upstream backend.
+
+Engineering focus: role-based application flows, mobile/web shared code, Expo Router, authentication flows, API proxying, async HTTP handling and frontend/backend integration.
+
+View Repository →
+
+04 — IndianTradeMart
+
+B2B Marketplace Frontend
+
+Next.js 15 React 19 TypeScript Redux Toolkit Jest Recharts WebSockets
+
+A production-oriented B2B marketplace frontend with marketplace workflows, API integration, centralized application state, testing tooling, charts and real-time client libraries.
+
+Engineering focus: scalable frontend structure, TypeScript, state management, API integration, test tooling, type checking, performance scripts and production build workflows.
 
 View Repository → · Live Product →
 
-🧠 How I Think About Full-Stack Engineering
+How I Approach Full-Stack Engineering
 
 Product Requirement
-      ↓
-Frontend UX / State
-      ↓
+        ↓
+UI / UX & Client State
+        ↓
 API Contract & Validation
-      ↓
+        ↓
+Authentication & Authorization
+        ↓
 Business Logic
-      ↓
+        ↓
 Database / External Services
-      ↓
-Security • Logging • Error Handling • Testing
-      ↓
+        ↓
+Error Handling & Logging
+        ↓
+Testing
+        ↓
 Deployment & Observability
 
-I intentionally build projects that make me understand the complete request lifecycle — not only the UI layer.
+I try to understand the entire request lifecycle, not only the UI layer.
 
-📚 Currently Strengthening
+Engineering Focus
+
+I Build
+
+I’m Strengthening
+
+End-to-end web applications
 
 Data Structures & Algorithms
 
-Low-Level Design and common design patterns
+REST APIs and backend services
 
-System Design fundamentals
+Low-Level Design
 
-Redis and caching strategies
+Authentication and authorization
 
-Message queues and asynchronous workflows
+System Design
 
-Testing strategy and CI/CD
+Multi-role product workflows
 
-Production monitoring and observability
+Redis and caching
 
-AI application architecture beyond simple API calls
+AI/LLM-powered workflows
 
-📊 GitHub
+Message queues
+
+Microservice-style systems
+
+Automated testing
+
+Database-driven applications
+
+CI/CD and observability
+
+Current Direction
+
+I’m targeting SDE-1, Full-Stack Developer and AI Full-Stack Developer roles where I can work on real product problems across frontend and backend systems.
+
+I’m particularly interested in teams where I can keep improving in backend engineering, system design, scalable APIs, AI application architecture and software fundamentals.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipk2003&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipk2003&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-</div>
 
-🤝 Let's Connect
+Connect with me
 
-I'm interested in SDE-1, Full-Stack and AI Full-Stack opportunities where I can work on real product problems, backend systems and user-facing applications.
+Portfolio · LinkedIn · GitHub · LeetCode
 
-Portfolio: dipanshudev.com
-
-LinkedIn: dipanshu-kr-pandey
-
-Blog: dipanshudev.com/blog
-
-<div align="center">
+<br/>
 
 Build useful products. Understand the system. Improve the fundamentals.
 
