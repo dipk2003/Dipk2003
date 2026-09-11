@@ -1,197 +1,141 @@
 <div align="center">
 
-Dipanshu Kumar Pandey
+# Hi, I'm Dipanshu Kumar Pandey 👋
 
-AI Full-Stack Developer · SDE-1
+### AI Full-Stack Developer · SDE-1
 
-Building end-to-end products across frontend, backend, APIs, databases and AI workflows.
+I build production-style, end-to-end products — from UI architecture to APIs, auth, databases and AI-powered workflows — not just frontend demos.
 
-Portfolio · LinkedIn · LeetCode
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 </div>
 
-$ whoami
-Dipanshu Kumar Pandey
+---
 
-$ focus
-AI Full-Stack Development · Backend Engineering · SDE-1
+### 🔭 Currently
 
-$ stack
-Next.js · React · TypeScript · Node.js · Express · Python · FastAPI
+- 🚀 Building **backend-heavy full-stack systems** — microservices, multi-tenancy, API gateways, role-based workflows
+- 🤖 Building **AI/LLM-powered applications** — agent orchestration, structured generation pipelines
+- 📈 Strengthening **DSA · LLD · System Design · Redis · Queues · Testing · Observability**
+- 💼 Open to **AI Full-Stack Developer** and **SDE-1** roles
 
-$ currently_improving
-DSA · LLD · System Design · Redis · Queues · Testing · Observability
+---
 
-About Me
-
-I’m a full-stack developer focused on building complete, production-style applications rather than isolated frontend demos.
-
-My work usually starts with the product flow, then moves through UI architecture, API contracts, authentication, business logic, databases, validation, error handling and deployment.
-
-I’m especially interested in backend-heavy full-stack systems, AI-powered applications and engineering problems involving multi-tenancy, microservices, API gateways, role-based workflows and scalable application architecture.
-
-Tech Stack
-
-Area
-
-Technologies
-
-Frontend
-
-React Next.js TypeScript JavaScript Tailwind CSS
-
-Mobile / Cross-Platform
-
-React Native Expo
-
-Backend
-
-Node.js Express.js Python FastAPI
-
-Databases
-
-PostgreSQL MySQL MongoDB Supabase
-
-API & Auth
-
-REST APIs JWT Swagger / OpenAPI
-
-AI
-
-OpenAI APIs Anthropic APIs LLM Workflows AI Agents
-
-Engineering
-
-Microservices API Gateway Multi-Tenancy Docker Git
-
-Deployment
-
-Vercel Render Docker Compose
-
-Featured Engineering Projects
-
-01 — OrgFlow HRMS
-
-Multi-Tenant HRMS built with Microservices
-
-Next.js TypeScript Node.js Express PostgreSQL / MySQL Sequelize Docker JWT
-
-A full-stack HR management platform designed around independent backend services for authentication, users, companies, attendance, leave, payroll and notifications.
-
-Engineering focus: API Gateway architecture, JWT authentication, tenant-aware data access, QR attendance flows, approval workflows, service boundaries, rate limiting, Swagger documentation and Docker orchestration.
-
-Why it matters: this is my strongest system-design-oriented project because it goes beyond CRUD and explores how multiple backend domains work together inside one product.
-
-View Repository →
-
-02 — The Boring Agents
-
-AI Content & Interview Automation Platform
-
-Python FastAPI LLM APIs AI Agents REST API CLI
-
-An AI-agent system for generating structured educational and interview-preparation content through reusable workflows and multiple model providers.
-
-Engineering focus: agent orchestration, provider-based LLM integration, structured generation pipelines, FastAPI endpoints, Swagger documentation, automation scripts, error handling and reusable AI components.
-
-View Repository →
-
-03 — HHH Jobs
-
-Cross-Platform Job Platform for Candidates and HR Teams
-
-React Native Expo TypeScript Python FastAPI
-
-A role-based job application product with separate student and HR experiences.
-
-Students can browse jobs, save opportunities and track applications, while HR users get dashboard, post-job and job-management workflows. A FastAPI proxy layer connects the client with the upstream backend.
-
-Engineering focus: role-based application flows, mobile/web shared code, Expo Router, authentication flows, API proxying, async HTTP handling and frontend/backend integration.
-
-View Repository →
-
-04 — IndianTradeMart
-
-B2B Marketplace Frontend
-
-Next.js 15 React 19 TypeScript Redux Toolkit Jest Recharts WebSockets
-
-A production-oriented B2B marketplace frontend with marketplace workflows, API integration, centralized application state, testing tooling, charts and real-time client libraries.
-
-Engineering focus: scalable frontend structure, TypeScript, state management, API integration, test tooling, type checking, performance scripts and production build workflows.
-
-View Repository → · Live Product →
-
-How I Approach Full-Stack Engineering
-
-Product Requirement
-        ↓
-UI / UX & Client State
-        ↓
-API Contract & Validation
-        ↓
-Authentication & Authorization
-        ↓
-Business Logic
-        ↓
-Database / External Services
-        ↓
-Error Handling & Logging
-        ↓
-Testing
-        ↓
-Deployment & Observability
-
-I try to understand the entire request lifecycle, not only the UI layer.
-
-Engineering Focus
-
-I Build
-
-I’m Strengthening
-
-End-to-end web applications
-
-Data Structures & Algorithms
-
-REST APIs and backend services
-
-Low-Level Design
-
-Authentication and authorization
-
-System Design
-
-Multi-role product workflows
-
-Redis and caching
-
-AI/LLM-powered workflows
-
-Message queues
-
-Microservice-style systems
-
-Automated testing
-
-Database-driven applications
-
-CI/CD and observability
-
-Current Direction
-
-I’m targeting SDE-1, Full-Stack Developer and AI Full-Stack Developer roles where I can work on real product problems across frontend and backend systems.
-
-I’m particularly interested in teams where I can keep improving in backend engineering, system design, scalable APIs, AI application architecture and software fundamentals.
+### 🧰 Tech Stack
 
 <div align="center">
 
-Connect with me
+**Frontend & Mobile**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-Portfolio · LinkedIn · GitHub · LeetCode
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-<br/>
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-Build useful products. Understand the system. Improve the fundamentals.
+**AI / LLM**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square)
+
+**Engineering & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### 🏗️ Featured Engineering Projects
+
+#### 01 — [OrgFlow HRMS](#) — Multi-Tenant HRMS with Microservices
+`Next.js` `TypeScript` `Node.js` `Express` `PostgreSQL/MySQL` `Sequelize` `Docker` `JWT`
+
+Full-stack HR platform with independent backend services for auth, users, companies, attendance, leave, payroll and notifications.
+
+- Designed **API Gateway architecture** with JWT auth and tenant-aware data access across services
+- Built QR-based attendance and multi-step approval workflows
+- Implemented rate limiting, Swagger docs, and Docker Compose orchestration across N services *(add real number)*
+- **My strongest system-design project** — goes beyond CRUD into multi-service coordination
+
+#### 02 — [The Boring Agents](#) — AI Content & Interview Automation Platform
+`Python` `FastAPI` `LLM APIs` `AI Agents` `REST API` `CLI`
+
+AI-agent system generating structured educational and interview-prep content via reusable workflows across multiple model providers.
+
+- Built **provider-agnostic LLM integration layer** (swap models without touching pipeline logic)
+- Designed structured generation pipelines with error handling and retry logic
+- Exposed FastAPI endpoints with Swagger docs + CLI automation scripts
+
+#### 03 — [HHH Jobs](#) — Cross-Platform Job Platform
+`React Native` `Expo` `TypeScript` `Python` `FastAPI`
+
+Role-based job platform with separate student and HR experiences.
+
+- Built shared mobile/web codebase with Expo Router
+- Implemented FastAPI proxy layer for async request handling between client and upstream backend
+- Designed role-based auth flows and dashboard/job-management workflows for HR users
+
+#### 04 — [IndianTradeMart](#) — B2B Marketplace Frontend · [Live →](#)
+`Next.js 15` `React 19` `TypeScript` `Redux Toolkit` `Jest` `Recharts` `WebSockets`
+
+Production-oriented B2B marketplace frontend.
+
+- Built centralized state management with Redux Toolkit at scale
+- Integrated real-time WebSocket data + Recharts visualizations
+- Set up Jest test suite + type-checking + production build/perf scripts
+
+---
+
+### 🧠 How I Approach Full-Stack Engineering
+
+```
+Product Requirement → UI/UX & Client State → API Contract & Validation
+→ AuthN/AuthZ → Business Logic → Database/External Services
+→ Error Handling & Logging → Testing → Deployment & Observability
+```
+
+I try to reason about the **entire request lifecycle** — not just the UI layer.
+
+---
+
+### 📊 Engineering Focus
+
+| ✅ I Build | 📈 I'm Strengthening |
+|---|---|
+| End-to-end web applications | Data Structures & Algorithms |
+| REST APIs & backend services | Low-Level Design |
+| Auth & authorization systems | System Design |
+| Multi-role product workflows | Redis & caching |
+| AI/LLM-powered workflows | Message queues |
+| Microservice-style systems | Automated testing |
+| Database-driven applications | CI/CD & observability |
+
+---
+
+<div align="center">
+
+### 📌 Currently open to AI Full-Stack Developer & SDE-1 roles
+
+**[Portfolio](#) · [LinkedIn](#) · [GitHub](#) · [LeetCode](#)**
+
+*Build useful products. Understand the system. Improve the fundamentals.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)
 
 </div>
